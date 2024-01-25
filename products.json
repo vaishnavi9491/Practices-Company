@@ -1,0 +1,53 @@
+[
+    {
+        "name":"iphone",
+        "price":"154",
+        "featured":true,
+        
+        "company":"apple"
+    },
+    {
+        "name":"samsung",
+        "price":"1155",
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"apple",
+        "price":"204",
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"watch",
+        "price":"1554",
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone",
+        "price":"154",
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone14",
+        "price":"1545",
+   
+        "company":"apple"
+        
+    },
+    {
+        "name":"iphone13",
+        "price":"20",
+        
+        "company":"apple"
+    },
+    {
+        "name":"mi",
+        "price":"1549",
+        "feature":true,
+       
+        "company":"apple"
+    }
+]
